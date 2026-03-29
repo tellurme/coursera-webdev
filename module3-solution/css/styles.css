@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* navbar */
+.navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* mobile dropdown background */
+#mobile-menu {
+  background-color: #e6e6e6;
+}
+
+/* tall section */
+.tall-section {
+  background-color: #cccccc;
+  height: 1000px;
+  padding: 20px;
+  margin-top: 20px;
+}
